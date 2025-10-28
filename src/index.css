@@ -1,0 +1,6 @@
+@import "tailwindcss";
+
+select option {
+  color: black; /* text color */
+  background-color: white; /* optional, dropdown bg */
+}
